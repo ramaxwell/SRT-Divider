@@ -1,0 +1,5 @@
+usage:
+
+gcc SRT-Div.c -o SRT-div -lm
+
+./SRT-Div
