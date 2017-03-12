@@ -18,9 +18,14 @@ usage file is included in the repo.
 
 List of files in this repo:
 --> usage.txt :              Description of how to compile and run
+
 --> SRT-Div.c :              Simulation source file
+
 --> SRT-Div :                SRT Divider binary
+
 --> SRT-divider-diagram.png: Divider operation diagram
+
 --> run.txt :                Typical output
+
 --> README.md :              This readme file
 
