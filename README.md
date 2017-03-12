@@ -17,6 +17,7 @@ Compilation and execution is straight forward but a
 usage file is included in the repo.
 
 List of files in this repo:
+
 --> usage.txt :              Description of how to compile and run
 
 --> SRT-Div.c :              Simulation source file
