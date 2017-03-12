@@ -5,7 +5,7 @@
  University of Texas at San Antonio
 
  N-bit SRT Divider with shift-over 0's and 1's
-	for random bits starting at n = 16, 18, 20,...32
+	for random bits starting at n = 8, 10, 12,...64
 
 https://github.com/ramaxwell/SRT-Divider.git
 
